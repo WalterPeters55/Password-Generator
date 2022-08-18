@@ -4,7 +4,7 @@ Rutgers Coding Bootcamp Module 3 challenge.
 
 For this challenge, we were tasked with creating a password generator.
 
-* The web application needs to generate a password between 8 and 120 characters using both capital and lowercase letters, numbers, and special characters. 
+* The web application needs to generate a password between 8 and 128 characters using both capital and lowercase letters, numbers, and special characters. 
 
 * The web application also needed to contain a series of prompts to specify the types of characters the user wanted in the password as well as issue alerts if the users did not meet basic password criteria. 
 
